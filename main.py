@@ -83,7 +83,7 @@ class Worker():
             exit()
         except:
             # Console().printer(Fore.LIGHTRED_EX, "Invalid", self.code)
-            Console().printer(Fore.LIGHTYELLOW_EX, " Retry ", self.code)
+            Console().printer(Fore.LIGHTYELLOW_EX, " 重試 ", self.code)
         
 if __name__ == "__main__":
     Console().ui()
