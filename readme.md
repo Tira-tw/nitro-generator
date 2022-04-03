@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/957636234937761812/960263177625538620/unknown.png"></div>
 ## Support
 
 - [Discord](https://discord.gg/u4t5D7MpAx)
