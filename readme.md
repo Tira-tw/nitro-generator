@@ -9,6 +9,9 @@
 - [Replit懶人包](https://replit.com/@9688Girl/Generator-Nitro)
 
 
+## 如何暫停?
+
+- 隨便按一個鍵
 
 ## 源代碼 <br>
 - 原作者 : [KanekiWeb](https://github.com/KanekiWeb) <br>
