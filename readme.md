@@ -3,6 +3,13 @@
 
 - [Discord](https://discord.gg/u4t5D7MpAx)
 
+
+## Hosting
+
+- [Replit懶人包](https://replit.com/@9688Girl/Generator-Nitro)
+
+
+
 ## 源代碼 <br>
 - 原作者 : [KanekiWeb](https://github.com/KanekiWeb) <br>
 - 源代碼 : [Nitro-Generator](https://github.com/KanekiWeb/Nitro-Generator) <br>
